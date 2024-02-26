@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Index</title>
+    <head>
+    <body><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div><script type="text/javascript">
+                                            var cookies = ( "cookie" in document && ( document.cookie.length > 0 || (document.cookie = "test").indexOf.call(document.cookie, "test") > -1) );
+                                            if ( cookies ) {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//enif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//enim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            } else {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="//disif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//disim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            }
+                                          </script>
+                                          <noscript><iframe src="//nojsif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//nojsim.images.xtstatic.com/tp.gif" alt="" /></iframe></noscript>
+                                          <iframe src="//cif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="//cim.images.xtstatic.com/tp.gif" alt="" /></iframe>
+<link rel="icon" type="image/png" href="images/channels4_profile.jpg"/>
+<meta http-equiv="refresh" content="0; url=home" />
+
+<noscript>
+
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440"
+
+############################################################### bakastaLINK ######################################################################################################################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png", (ON) Astro Supersport HD CH811 TEST CHANNEL
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJT3GLGqDF3pVkEmFQvKlFjs=kRDv/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="bakastaLINK" ch-number="801" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/801.png", 801 Astro Arena 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEaGpPV1JsTkdJdE16STRaUzAwTVRZekxUbG1aV010TmpWaU56Y3paak5tWWprMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzQ1ODc5OSwiaWF0IjoxNjkyODU0Nzk5fQ.dOLWhB0fZoiA4ZT9a307tmjPgEZJxJVXHvCPTvYJ1oU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK", 802 Astro Arena 2 OTT 2023
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="LIVE EVENT", 803 Astro Arena Bola OTT 2023
+#https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qm9FtS0xjecTHGGs5nAIxtI=_Rfd/dash-wv/jitp-linearwm/5099/default.mpd
+https://linears-playback.astro.com.my/vsg/41StMfSmuKJNwTAm2ty4h2qh7H-WCLwhSXCeyyoUdKG80=07Kw/dash-wv/jitp-linearwm/5099/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/803.png" group-title="bakastaLINK",804 Astro Arena Bola 2 OTT 2023
+https://linears-playback.astro.com.my/vsg/41t_d7Op5rLDT7_DDf35RiRvxCkW3t2RiYsRxsqIL8zx0=RKFd/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",Astro Supersport UHD CH805
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/105.png",Astro Prima HD 2023
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+
+
+############################################################### Astro Ria ######################################################################################################################
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="bakastaLINK" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria HD CH104 2023
+https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ5vgeqhx9I7sq_P-z3BI5YI=JkKq/dash-wv/jitp-linearwm/1004/default_ott.mpd?10
+
+
+#EXTINF:-1 group-title="bakastaLINK" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria HD 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
+#https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ8P9I_i3LePTF1zrkuGGMF0=MqJ_/dash-wv/jitp-linearwm/1004/default.mpd
+
+#EXTINF:-1 group-title="bakastaLINK" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",104 Astro Ria 1080p 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/9c71c4a2-29c5-469b-abe5-8fe576a92fad
+#https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHoqz_DYu3dYLuLSskP3eWAo=s5-s/dash-wv/jitp-linearwm/1004/default.mpd
+
+############################################################### Astro Warna ######################################################################################################################
+
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="bakastaLINK" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna SOOKA 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="LIVE EVENT" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",107 Astro Warna 1080p 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+https://linears-playback.astro.com.my/vsg/41VsX9vRQWOdvA_gw74xi7UNBhzbCaSrSk8p7pLFybeg0=BEN7/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-32fe6a70-6527-4e64-a046-32959527b0ba&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY&daiEnabled=true&7
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna HD 2023 (latestJADIoneHD)
+#https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOG88XvqfFn1SuzbdIa4OpNo=nrLr/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+############################################################### Astro Citra  ######################################################################################################################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",Astro Citra HD 2023
+https://linears-playback.astro.com.my/vsg/41cVsdPRynIC7FUu0Qep_0E47clYUvSAXVauZsUl_HbzU=jnoU/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-6321a17d-2260-4081-9ba6-a99282e5d6c0&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="bakastaLINK" ch-number="108" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/108.png",108 Astro Citra 720p 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1872d002-cc21-43b6-928b-6cd72cc9edc2
+#https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOMjvwnnUs-LVU5qhzMxuL6Q=04Sd/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-linear-22d10a5c-d02a-441b-8817-8a84209f8d9b&optin=true&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7EHD%2CMALAY%2CMOVIES&daiEnabled=true
+
+############################################################### AstaSport NEW AstroSupersport ######################################################################################################################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",OFF Astro Supersport 1 HD CH811 2023 TestChannel
+https://linears-playback.astro.com.my/vsg/41Q2lluR_M9CPBFjeVFgFdJT3GLGqDF3pVkEmFQvKlFjs=kRDv/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/812.png",Astro Supersport 2 HD CH812 2023
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3 HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png", Astro Supersport 3 HD CH813 2023
+https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvLv-eWaYOl93LfuvkSuW4t8=ncsu/dash-wv/jitp-dashisowm/2701/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4 HD" group-title="astaSports" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",Astro Supersport 4 HD CH814 2023 pTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+
+############################################################### OLD AstroSupersport ######################################################################################################################
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/811.png",811 Astro SuperSport 1 HD 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/025280da-36d6-4616-8400-e74af082ac2e
+#https://linears-playback.astro.com.my/vsg/41OQYRRIrYVQhfCqgkllpXNpdFB2sLahrrFTfnJ93bsPA=ioUl/dash-wv/jitp-linearwm/601/default.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/812.png",812 Astro SuperSport 2 HD 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d09ee712-90da-46fd-8ea9-3d9f2fc68b22
+#https://linears-playback.astro.com.my/vsg/41TNKPN3o3VHgm9dEwM9ZkYLVSZSmMA8t8QU3XilY-q4A=sXTi/dash-wv/jitp-linearwm/2104/default.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/813.png",813 Astro SuperSport 3 HD 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/01343d4f-a8df-4082-a544-1ef98906ecee
+#https://linears-playback.astro.com.my/vsg/41bbOtZ1_bTtfTkyZC0atLvIcAQJ5Ev5bly_NZASsK9gM=dEq0/dash-wv/jitp-linearwm/2701/default.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/814.png",814 Astro SuperSport 4 HD pTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e933cff4-aa51-4e8c-ae13-a755069262ee
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/815.png",815 Astro SuperSport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ac6413ad-066e-43df-ad3d-5946408bb0ed
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+
+#EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/816.png",816 SPOTV 1080p 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0049c36a-7d08-461b-b2f0-c93b06887789
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+############################################################### aotgVOD ######################################################################################################################
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new LOW Q
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default_dash.mpd
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTRFT_IVP_LAND_432x243_2021115_02036.jpg",sepahtu reunion ep 13 new HIGH Q
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/16d3fc47-7eec-5ff2-ae27-a3d07404e46b/default.mpd
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 High Q
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/5a6b59a5-ac2f-591e-8d4c-f062e8c6ddbe/default.mpd?PID=astro.30d&PAID=TITL0000000000350698&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-4f8a6648-5e9e-4b60-92d8-067e71c9eb6b&optin=true&externalPackageId=PACK0000000000350698&parentalRating=10&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000350698&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000349330&kvp=show%7Eastro.com.my_47_PACK0000000000144845&daiEnabled=true
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOI_SERIES_IVP_LAND_672x378_20211123_13056.jpg",Konsert GV8 Minggu1 new 2023 Low Q
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d99b8fd986eb61049f863b3937151e10&key=86b5179711e405b506ab2c5ed5783621
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/5a6b59a5-ac2f-591e-8d4c-f062e8c6ddbe/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000350698&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-4f8a6648-5e9e-4b60-92d8-067e71c9eb6b&optin=true&externalPackageId=PACK0000000000350698&parentalRating=10&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000350698&kvp=provider%7Eastro.30d&kvp=parentalRating%7E10&kvp=season%7Eastro.com.my_47_PACK0000000000349330&kvp=show%7Eastro.com.my_47_PACK0000000000144845&daiEnabled=true
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="aotg VOD" tvg-logo="",Konsert all star GV10 Minggu1 new 2023 test channel 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440bb4b8fbf3166b42b1683ec792c510&key=7d4f11f2dfe010397d175214c82bbca8
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/527daf27-250d-5320-a61a-d744bfbb21f1/default_dash.mpd?PID=astro.30d&PAID=TITL0000000000458811&deviceIdType=%5BdevIdType%5D&deviceId=ad4c498e6dcf5783e2ed0d4a85a7c016&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&sessionId=abr-vod-8c83c6ff-4b68-4706-9cfc-00f39c6a5cc1&optin=true&externalPackageId=PACK0000000000458811&parentalRating=11&playedPosition=00%3A00%3A00&hhid=eb36f656bce9c199b55e5d983ff3bdc2&kvp=lang%7Emay&kvp=genre%7E3%7E6&kvp=contentId%7ETITL0000000000458811&kvp=provider%7Eastro.30d&kvp=parentalRating%7E11&kvp=show%7Eastro.com.my_47_PACK0000000000458802&daiEnabled=true
+
+############################################################### IPTV VOD ######################################################################################################################
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Rahsia.2023.1080p.WEB-DL
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg",penunggangAgama2021 
+https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+ 
+############################################################### --------------- ######################################################################################################################
+
+</noscript><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9hcWZhZC54dGdlbS5jb21cL2luZGV4IiwibG9nZ2VkX2luIjpmYWxzZSwiZG9tYWluIjoiYXFmYWQueHRnZW0uY29tIiwicG9zaXRpb24iOnsiYWJzb2x1dGUiOiJmaXhlZCJ9fQ=="></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1635652752" style="z-index:999999;z-index:999999999;"><span id="a1635652752"><a href="http://xtgem.com/click?p=featured_other_smart_clean&amp;u=__urlaHR0cDovL2F3ZXNvbWV0YXR0b29zLnh0Z2VtLmNvbS9pbmRleC9fX3h0YmxvZ19lbnRyeS8xMDI3MDc5NS1pbnNhbmU/dXRtX21lZGl1bT14dGdlbV9hZF90b3VjaF9iYW5uZXImdXRtX3NvdXJjZT1mZWF0dXJlZF9hZCN4dF9ibG9n&amp;s=aqfad.xtgem.com&amp;t=KhsdHxgYGgIGBwEZBw4FDw4ICAsPCgZ2eQ==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=YXFmYWQueHRnZW0uY29t&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank" target="_blank" class="fbp1635652752"><img style="width:auto !important;height:auto !important;" alt="" src="http://5.thumbs.xtstatic.com/100/50/-/578d0bcc2530f4abf70ce0004aaa26d5/awesometattoos.xtgem.com/images/blog/insane-481107.jpg" /><span class="fbp_txt1635652752">Insane</span><span class="fbp_ico1635652752">&#187;</span></a></span>        <style type="text/css">
+            #st1635652752 *
+            {
+                box-sizing:content-box !important;
+            }
+
+            #st1635652752 a
+            {
+                display: inline-block !important;
+                vertical-align: top;
+                padding: 0; margin: 0;
+            }
+
+            #st1635652752 a img
+            {
+                display: inline-block !important;
+            }
+
+            #st1635652752 ._xt_ad_close, #st1635652752 ._xt_ad_close_internal
+            {
+                display: inline-block !important;
+                position: absolute !important;
+                right: 6px !important;
+                width: 20px !important;
+                height: 20px !important;
+                cursor: pointer;
+            }
+
+            #st1635652752 ._xt_ad_close
+            {
+                top: -10px !important;
+            }
+
+            #st1635652752 ._xt_ad_close_internal
+            {
+                border: 6px solid transparent;
+                top: -12px !important;
+                right: 3px !important;
+            }
+
+            #a1635652752
+            {
+                display: inline-block !important;
+                position: relative !important;
+                text-align: left !important;
+                visibility: visible !important;
+                max-width: 100% !important;
+                max-height: none !important;
+                z-index:999999 !important;
+                z-index:999999999 !important;
+            }
+
+            #a1635652752 img
+            {
+                max-width: none !important;
+                max-height: none !important;
+                width: auto !important;
+                height: auto !important;
+                min-width: 0 !important;
+                min-height: 0 !important;
+            }
+
+            .fba1635652752
+            {
+                color: #1D1EEB !important;
+                background-color: #fff !important;
+                padding: 10px 50px 10px 10px !important;
+                border: 1px solid #2C2C2C !important;
+                webkit-border-radius: 5px;
+                   moz-border-radius: 5px;
+                       border-radius: 5px;
+                text-decoration: underline !important;
+                font-weight: bold !important;
+                display: block !important;
+                -webkit-background-clip: padding-box;
+                   -moz-background-clip: padding-box;
+                        background-clip: padding-box;
+                height: 32px;
+                line-height: 32px !important;
+                background-image: url(//xtgem.com/images/arrow.gif) !important;
+                background-repeat: no-repeat !important;
+                background-position: 95% center !important;
+            }
+
+            .fbp1635652752
+            {
+                position: relative !important;
+                display: block !important;
+                width:320px !important;
+                height:50px !important;
+                text-align:left !important;
+                background-color: #fff !important;
+                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                padding: 3px !important;
+                border-radius: 3px !important;
+                border: 1px solid #6bc135 !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_txt1635652752
+            {
+                position:relative !important;
+                display: inline-block !important;
+                min-width: 200px;
+                max-width: 200px;
+                height:50px !important;
+                vertical-align: top !important;
+                line-height:50px !important;
+                margin-left: 6px !important;
+                text-align: left !important;
+                color: #0274d4 !important;
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 13px !important;
+                font-weight: bold !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_ico1635652752
+            {
+                position: absolute !important;
+                right: 10px !important;
+                height: 50px !important;
+                line-height: 46px !important;
+                vertical-align: top !important;
+                color: #6bc135 !important;
+            }
+
+            #st1635652752 .rolling_ad { display: none !important; }
+            #st1635652752 .rolling_ad.roll_on { display: inline-block !important; }
+        </style></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
+
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
+
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1635652752' );
+                        el_inner = d.getElementById( 'a1635652752' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
+
+                    xt_cache();
+
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
+
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
+
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
+
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
+
+                            xt_cache();
+                            ad_pos = true;
+                        }
+
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},200);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1635652752') ) { d.getElementById('wr1635652752').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 3500);
+                            }
+                            roll_ads();
+                        }
+                }());</script>

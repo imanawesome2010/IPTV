@@ -1,0 +1,210 @@
+#EXTINF:-1 group-title="MALAYSIA🇲🇾" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA🇲🇾: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA🇲🇾" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA🇲🇾" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#EXTINF:-1 tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png" group-title="MALAYSIA🇲🇾",爱奇艺
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+#EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_xiao_tai_yang.png" group-title="MALAYSIA🇲🇾",ASTRO PREMIER
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-asia-cn.png" group-title="MALAYSIA🇲🇾",CCTV-4 中文国际
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" group-title="MALAYSIA🇲🇾",凤凰卫视
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_classic.png" group-title="MALAYSIA🇲🇾",TVB 经典台
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_entertainment_news.png" group-title="MALAYSIA🇲🇾",TVB 娛樂新聞台
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="MALAYSIA🇲🇾",TVB 翡翠台
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvbs-asia-tw.png" group-title="MALAYSIA🇲🇾",TVBS ASIA HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="MALAYSIA🇲🇾",TVB 星河频道
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="SINGAPURA🇸🇬" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Mc5.jpg/revision/latest/scale-to-width-down/340?cb=20120613095225",CHANNEL 5 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 group-title="SINGAPURA🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Mediacorp_Channel_8.jpg",CHANNEL 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 group-title="SINGAPURA🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg",CHANNEL U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPURA🇸🇬" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="LIFESTYLE",亚洲美食频道
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="LIFESTYLE",BBC LIFESTYLE HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax_at.png" group-title="LIFESTYLE",DMAX HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="LIFESTYLE",FOOD NETWORK
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_ca.png" group-title="LIFESTYLE",HGTV HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_us.png" group-title="LIFESTYLE",MTV LIVE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_ie.png" group-title="LIFESTYLE",TLC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="DOCUMENTARY",BBC EARTH
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png" group-title="DOCUMENTARY",动物星球
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+#EXTINF:-1 tvg-id="714" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-uk-plus1-us-uk.png" group-title="DOCUMENTARY",CRIME + INVESTIGATION
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="DOCUMENTARY",DISCOVERY ASIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="DOCUMENTARY",DISCOVERY CHANNEL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="DOCUMENTARY",HISTORY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",ASTRO SUPERSPORT 4 HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="MOVIES",AXN HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",天映频道
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",CINEMAX HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_my.png" group-title="MOVIES",HBO HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO FAMILY HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO HITS HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="MOVIES",PARAMOUNT NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTINF:-1 tvg-id="413" tvg-name="SHOWCASE MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showcase-movies-my.png" group-title="MOVIES",SHOWCASE MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="MOVIES",WARNER TV HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTINF:-1 tvg-id="416" tvg-name="TVN MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="KOREA🇰🇷",TVN MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+#EXTINF:-1 tvg-id="746" tvg-name="NatGeoTaiwan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/National_Geographic_Channel_HD_2008.svg" group-title="DOCUMENTARY",国家地理
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
