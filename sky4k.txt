@@ -1,0 +1,97 @@
+=========================================== Malaysia ===========================================
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://go.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://go.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://go.sky4k.eu.org/AEC_V6/index.php?id=CITRA
+#EXTINF:-1 ch-number="306" tvg-id="AstroAEC" group-title="Malaysia" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 AEC S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAEC
+#EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ S
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroQJ
+EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroAuraHD
+EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRaniaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://go.sky4k.eu.org/AEC_V6/index.php?id=AstroPrimaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroOasisHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV1
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV2
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TV3
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroiQIYIHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png", TVS
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TVS
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AwesomeTV
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=TVOkey
+EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=8TV
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/ONE.png", ONE HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=OneHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=KPlusHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://aqfadtv.xyz/logos/tvN.png", tvN HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=tvNHD
+
+EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Animax
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCeriaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=DreamWorksHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NTWK HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CartoonNetworkHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png", NICKELODEON HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=NickelodeonHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CBeebiesHD
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=LoveNatureHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", Global Trekker
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=GlobalTrekkerHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BBCEarthHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HistoryHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AnimalPlanetHD
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png", ROCK Action
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=RockAction
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png", ROCK Entertainment
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=RockEntertainment
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Thrill
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BOO
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png", CINEMAX HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Cinemax
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HBOHits
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png", AXN HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AXNHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsHD
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArenaHD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArena2HD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV2
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",WARNA C
+https://hls.watchtv.uk/Warna/playlist-39.m3u8a?t=1705241923&token=512a1f076d9c38e03ee60ba6d35a34f7

@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="24"
+
+#EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
+
+##EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwODc1NzI2MywiaWF0IjoxNzA4MTUzMjYzfQ.zN5RLQ91ljwoFXsxUeHeBNmfG5ik4xxs_sS2VdrXzw0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+
+##EXTINF:-1 ch-number="4021" tvg-id="AstroAEC" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png",AEC S
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 ch-number="4022" tvg-id="AstroQJ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",QJ
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yVTRZakE0WkRBdFlqTmtPQzAwWXpJNUxUbGtOMkl0TUdZMk9UZGpZMkkxWmpSbCIsIndtb3BpZCI6MzIsImV4cCI6MTcwODc1NzI2MywiaWF0IjoxNzA4MTUzMjYzfQ.zN5RLQ91ljwoFXsxUeHeBNmfG5ik4xxs_sS2VdrXzw0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0e7dbe25e6c49f9b525e614fc4aa60c:02223965e33f7bf1e6c21278063bb508
+https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 ch-number="941",大陆寻奇「纪录」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+
+##EXTINF:-1 ch-number="6" tvg-id="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_pc.png",6 民视
+##http://seb.sason.top/ptv/ftv.php?id=ms
+
+##EXTINF:-1 ch-number="149" tvg-id="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_pc.png",149 民视影剧
+##http://seb.sason.top/ptv/ftv.php?id=yj
