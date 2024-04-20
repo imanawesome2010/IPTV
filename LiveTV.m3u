@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 31.3.2024"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 18.4.2024"
 refresh="3600"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,54 +137,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5088/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
-
-#EXTINF:0 group-title="TAMIL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-
-#EXTINF:0 group-title="TAMIL" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:0 group-title="TAMIL" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-
-#EXTINF:0 group-title="TAMIL" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="TAMIL",EET TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://eu.streamjo.com/eetlive/eettv.m3u8
-
-#EXTINF:0, group-title="TAMIL" tvg-logo="https://play-lh.googleusercontent.com/smtmDHWPDQkG6ZYUKGsdGHSWVcbijJ0uNWhsDbM2iRJ-OoUe4dVlfrO-YxA57QbKYQaJ",HARI TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-
-#EXTINF:0, group-title="TAMIL" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
-#EXTINF:0, group-title="TAMIL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 
 #EXTINF:-1 tvg-id="Colors Cineplex" group-title="TAMIL" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
